@@ -1,5 +1,6 @@
 ---
 title: My name
+layout: home
 nav_order: 5
 ---
 
