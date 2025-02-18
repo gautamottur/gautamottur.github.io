@@ -4,11 +4,24 @@ layout: home
 nav_order: 2
 ---
 
-# My research
+# My research interests 
 
-## Dependency
+## Architectural issues
 
-## Ordering
+### Dependency
 
-## Linearity
+### Ordering
+
+### Linearity
+
+
+## Explanatory issues
+
+### Serialization
+
+### Successive cyclicity
+
+### Sign language syntax
+
+
 
