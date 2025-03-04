@@ -12,7 +12,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
 ### **Syntactic dependencies and locality**  
   I examine the structural conditions that regulate transformations, agreement, and other kinds of redundant dependencies, with a focus on how locality effects emerge from the inherent organization of the memory in syntax, rather than through ancillary mechanisms (CED, phases, etc.).
 
-  ### **Cross-linguistic variation and typology**  
+### **Cross-linguistic variation and typology**  
   Investigating how syntactic structures differ across languages and what these differences reveal about combinatory principles of grammar.
 
 ### **Interfaces between syntax and other modules**  
@@ -26,7 +26,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
   - How do SVCs challenge existing models of syntactic hierarchy and argument structure?  
   - What patterns distinguish SVCs in **Malayalam** and other **head-final** languages?
   - How are SVCs prosodically and morphologically integrated?
-  #### **Recent work:**  
+#### **Recent work:**  
   - Malayalam doesn't need adpositions: the case of vP-adjunction. [WCCFL 42 abstract](https://drive.google.com/file/d/1uhb6RaOGk1RqL_0GqmvN5o9yj94F6Kdj/view)
   - Linear asymmetries and the syntax of serialization: against an antisymmetric approach. [ConSOLE 32 Proceedings](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxii_updated.pdf#page=238)
 
@@ -34,7 +34,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
 #### **Research questions:**
   - To what extent are non-complements (specifiers and adjuncts) opaque or transparent?  
   - How can we derive cross-linguistic variation in, e.g., left-branch extraction and successive cyclic movement patterns?  
-  #### **Recent work:**  
+#### **Recent work:**  
   - A timing approach to escape hatch dependencies. [GLOW 47 Abstract](https://link-url-here.org)
 
 
@@ -42,7 +42,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
 #### **Research questions:**
   - What strategies do **sign languages** use to mark directives, and how do such strategy evolve?  
   - What is the distribution of labour between syntax, semantics, and pragmatics in these constructions?
- #### **Recent work:**  
+#### **Recent work:**  
   - The grammaticalization of a motion verb into an imperative marker in two sign languages. [FEAST 6 Proceedings](https://doi.org/10.31009/FEAST.i6.04)
 
 
