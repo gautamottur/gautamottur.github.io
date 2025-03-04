@@ -47,7 +47,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
 ### _Conventionalization of directive markers in sign languages_ (joint work with Marianthi Koraka and the Göttingen sign lab)    
 
 #### **Research questions:**
-  * What strategies do **sign languages** use to mark directives, and how do such strategy evolve?  
+  * What strategies do **sign languages** use to mark directives, and how do such strategies evolve?  
   * What is the distribution of labour between syntax, semantics, and pragmatics in these constructions?
 
 #### **Recent work:**  
