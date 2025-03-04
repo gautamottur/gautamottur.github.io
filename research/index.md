@@ -21,7 +21,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
 
 
 
-## Specific empirical domains
+## Empirical domains and ongoing projects
 
 ### _Serial verb constructions (SVCs)_  
 
@@ -54,7 +54,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
   * The grammaticalization of a motion verb into an imperative marker in two sign languages. [FEAST 6 Proceedings](https://doi.org/10.31009/FEAST.i6.04)
 
 
-### _Quantification and information structure_  (joint work with Zeqi Zhao)
+### _Quantification and clausal structure in Mandarin_  (joint work with Zeqi Zhao)
 
 #### **Research questions:**
   * What are the strategies used in **Mandarin** to express universal(-ish) quantification, and what is the role of _dou_ in the morphology/syntax/semantics?  
