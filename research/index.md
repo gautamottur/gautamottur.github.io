@@ -44,7 +44,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
   * A timing approach to escape hatch dependencies. [GLOW 47 Abstract](https://glowlinguistics.org/47/wp-content/uploads/sites/11/2025/02/Ottur.pdf)
 
 
-### _Conventionalization of directive markers in sign languages_ (joint work with Marianthi Koraka and the Göttingen sign lab)    
+### _Conventionalization of directive markers in sign languages_ (joint work with Marianthi Koraka and the Göttingen SignLab)    
 
 #### **Research questions:**
   * What strategies do **sign languages** use to mark directives, and how do such strategies evolve?  
