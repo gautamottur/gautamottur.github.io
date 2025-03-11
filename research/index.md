@@ -28,6 +28,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
 #### **Research questions:**
   * How do SVCs challenge existing models of syntactic hierarchy and argument structure?  
   * What patterns distinguish SVCs in **Malayalam** and other **head-final** languages?
+  * What (if anything) distinguishes deverbal adpositions from serial verbs that introduce arguments?
   * How are SVCs prosodically and morphologically integrated?
 
 #### **Recent work:**  
