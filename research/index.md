@@ -14,7 +14,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
   I examine the structural conditions that regulate transformations, agreement, and other kinds of redundant dependencies, with a focus on how locality effects emerge from the inherent organization of the memory in syntax, rather than through ancillary mechanisms (CED, phases, etc.).
 
 ### _Cross-linguistic variation and typology_  
-  Investigating how syntactic structures differ across languages and what these differences reveal about combinatory principles of grammar.
+  I investigate how syntactic structures differ across languages and what these differences reveal about combinatory principles of grammar.
 
 ### _Interfaces between syntax and other modules_  
   I seek to understand how the interactions between syntax and phonology, semantics, and pragmatics determines well-formedness, interpretation, and prosodic realization.
