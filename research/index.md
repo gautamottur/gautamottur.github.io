@@ -32,7 +32,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
   * How are SVCs prosodically and morphologically integrated?
 
 #### **Recent work:**  
-  * Malayalam doesn't need adpositions: the case of vP-adjunction. [WCCFL 42 abstract](https://drive.google.com/file/d/1uhb6RaOGk1RqL_0GqmvN5o9yj94F6Kdj/view)
+  * Malayalam doesn't need adpositions: the case of vP-adjunction. [WCCFL 42 Poster](https://ottur.info/posters/ottur_wccfl42poster.pdf)
   * Linear asymmetries and the syntax of serialization: against an antisymmetric approach. [ConSOLE 32 Proceedings](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxii_updated.pdf#page=238)
 
 ### _Locality and constraints on transformations/redundancies_  
@@ -42,7 +42,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
   * How can we derive cross-linguistic variation in, e.g., left-branch extraction and successive cyclic movement patterns?  
 
 #### **Recent work:**  
-  * A timing approach to escape hatch dependencies. [GLOW 47 Abstract](https://glowlinguistics.org/47/wp-content/uploads/sites/11/2025/02/Ottur.pdf)
+  * A timing approach to escape hatch dependencies. [GLOW 47 Poster](https://ottur.info/posters/ottur_glow47poster.pdf)
 
 
 ### _Conventionalization of directive markers in sign languages_ (joint work with Marianthi Koraka and the Göttingen SignLab)    
