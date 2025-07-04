@@ -6,7 +6,7 @@ nav_order: 2
 
 # Research Interests
 
-My research lies at the intersection of **theoretical syntax** and its interfaces with **phonology, morphology, semantics, and pragmatics**. I investigate how syntactic dependencies interact with other grammatical modules, with a special forcus on **cross-linguistic** and **cross-modal** data (i.e. from **spoken and sign languages**).
+My research lies at the intersection of **theoretical syntax** and its interfaces with **phonology, morphology, semantics, and pragmatics**. I investigate how syntactic dependencies interact with other grammatical modules, with a special focus on **cross-linguistic** and **cross-modal** data (i.e. from **spoken and sign languages**). More generally, I am interested in how different aspects of the interaction between form and meaning can be modelled.
 
 ## General theoretical focus
 
@@ -61,5 +61,8 @@ My research lies at the intersection of **theoretical syntax** and its interface
   * What are the strategies used in **Mandarin** to express universal(-ish) quantification, and what is the role of _dou_ in the morphology/syntax/semantics?  
   * What are the effects of _dou_-related movement on scope and/or information structure in Mandarin? 
 
+### _Parameters of resemblance in iconicity in the visual modality_  (joint work with Pia Gehlbach, Silva Ladewig, and the Göttingen SignLab)
 
-
+#### **Research questions:**
+  * What phonological parameters are relevant in producing **resemblance mappings** between forms (e.g. handshapes and movements) in the visual-gestural modality and specific referents/meanings?
+  * What is the relative perceptual salience of different phonological parameters (e.g. overture and closure of the hand, direction/path of movement) in the context of such resemblance mappings?
