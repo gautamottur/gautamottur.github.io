@@ -32,7 +32,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
   * How are SVCs prosodically and morphologically integrated?
 
 #### **Recent work:**  
-  * Light-'give' constructions in Malayalam and Tamil (with Rishabh Suresh). [NELS 56 abstract](https://bpb-us-e1.wpmucdn.com/wp.nyu.edu/dist/2/33372/files/2025/08/279_light-give_constructions_in.pdf)
+  * Light-'give' constructions in Malayalam and Tamil (with Rishabh Suresh). [NELS 56 Poster](https://ottur.info/posters/suresh_ottur_nels56poster.pdf)
   * Malayalam doesn't need adpositions: the case of vP-adjunction. [WCCFL 42 Poster](https://ottur.info/posters/ottur_wccfl42poster.pdf)
   * Linear asymmetries and the syntax of serialization: against an antisymmetric approach. [ConSOLE 32 Proceedings](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxii_updated.pdf#page=238)
 
@@ -43,7 +43,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
   * How can we derive cross-linguistic variation in, e.g., left-branch extraction and successive cyclic movement patterns?  
 
 #### **Recent work:**  
-  * Escape hatches are phase edges, but not all phase edges are escape hatches. [NELS 56 Abstract](https://bpb-us-e1.wpmucdn.com/wp.nyu.edu/dist/2/33372/files/2025/08/279_escape_hatches_are.pdf)
+  * Escape hatches are phase edges, but not all phase edges are escape hatches. [NELS 56 Poster](https://ottur.info/posters/ottur_hendriks_nels56poster.pdf)
   * A timing approach to escape hatch dependencies. [GLOW 47 Poster](https://ottur.info/posters/ottur_glow47poster.pdf)
 
 
