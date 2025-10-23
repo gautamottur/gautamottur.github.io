@@ -43,7 +43,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
   * How can we derive cross-linguistic variation in, e.g., left-branch extraction and successive cyclic movement patterns?  
 
 #### **Recent work:**  
-  * Escape hatches are phase edges, but not all phase edges are escape hatches. [NELS 56 Poster](https://ottur.info/posters/ottur_hendriks_nels56poster.pdf)
+  * Escape hatches are phase edges, but not all phase edges are escape hatches (with Lieke Hendriks). [NELS 56 Poster](https://ottur.info/posters/ottur_hendriks_nels56poster.pdf)
   * A timing approach to escape hatch dependencies. [GLOW 47 Poster](https://ottur.info/posters/ottur_glow47poster.pdf)
 
 
