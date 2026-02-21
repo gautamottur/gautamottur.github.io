@@ -46,12 +46,12 @@ My research lies at the intersection of **theoretical syntax** and its interface
   * Escape hatches are phase edges, but not all phase edges are escape hatches (with Lieke Hendriks). [NELS 56 Poster](https://ottur.info/posters/ottur_hendriks_nels56poster.pdf)
   * A timing approach to escape hatch dependencies. [GLOW 47 Poster](https://ottur.info/posters/ottur_glow47poster.pdf)
 
-### _Numerals, classifiers and left-branch extraction in spoken Persian_  (joint work with Yasaman Sanei)
+### _Numerals, classifiers, and left-branch extraction in spoken Persian_  (joint work with Yasaman Sanei)
 
 #### **Research questions:**
   * What kind of classifiers are required/optional/prohibited with what kind of numerals in spoken Persian? 
   * Why can numeral-classifier complexes undergo left-branch extraction, while bare numerals cannot?
-  * Are these patterns better explain by semantics or syntax?
+  * Are these patterns better explained by semantics or syntax?
 
 #### **Recent work:**  
   * Two-*(cl) structures for the price of one-(cl) in spoken Persian. To be presented at WCCFL 44.
