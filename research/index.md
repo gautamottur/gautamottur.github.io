@@ -33,7 +33,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
 
 #### **Recent work:**  
   * Light-'give' constructions in Malayalam and Tamil (with Rishabh Suresh). [NELS 56 Poster](https://ottur.info/posters/suresh_ottur_nels56poster.pdf)
-  * Malayalam doesn't need adpositions: the case of vP-adjunction. [WCCFL 42 Proceedings](https://www.lingref.com/cpp/wccfl/42/paper3835.pdf)
+  * Malayalam doesn't need adpositions: the case of _v_P-adjunction. [WCCFL 42 Proceedings](https://www.lingref.com/cpp/wccfl/42/paper3835.pdf)
   * Linear asymmetries and the syntax of serialization: against an antisymmetric approach. [ConSOLE 32 Proceedings](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxii_updated.pdf#page=238)
 
 ### _Locality and constraints on transformations/redundancies_  
@@ -54,7 +54,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
   * Are these patterns better explained by semantics or syntax?
 
 #### **Recent work:**  
-  * Two-*(cl) structures for the price of one-(cl) in spoken Persian. [WCCFL 44 Poster](https://ottur.info/posters/sanei_ottur_wccfl44poster.pdf).
+  * Two-*(<span style="font-variant:small-caps;">cl</span>) structures for the price of one-(<span style="font-variant:small-caps;">cl</span>) in spoken Persian. [WCCFL 44 Poster](https://ottur.info/posters/sanei_ottur_wccfl44poster.pdf).
 
 
 ### _Conventionalization of directive markers in sign languages_ (joint work with Marianthi Koraka and the Göttingen SignLab)    
