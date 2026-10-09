@@ -6,7 +6,11 @@ nav_order: 2
 
 # Research Interests
 
-My research lies at the intersection of **theoretical syntax** and its interfaces with **phonology, morphology, semantics, and pragmatics**. I investigate how syntactic dependencies interact with other grammatical modules, with a special focus on **cross-linguistic** and **cross-modal** data (i.e. from **spoken and sign languages**). More generally, I am interested in how different aspects of the interaction between form and meaning can be modelled.
+My research lies at the intersection of **theoretical syntax** and its interfaces with **phonology, morphology, semantics, and pragmatics**. 
+
+I investigate how syntactic dependencies interact with other grammatical modules, with a special focus on **cross-linguistic** and **cross-modal** data (i.e. from **spoken and sign languages**). 
+
+More generally, I am interested in how different aspects of the interaction between form and meaning can be modelled.
 
 ## General theoretical focus
 
@@ -23,6 +27,21 @@ My research lies at the intersection of **theoretical syntax** and its interface
 
 ## Empirical domains and ongoing projects
 
+
+### _(Anti-)locality and configuration_  
+
+#### **Research questions:**
+  * To what extent are non-complements (specifiers and adjuncts) opaque or transparent?  
+  * How can asymmetries between complements and specifiers like "escape-hatch" effects be derived from simpler principles?
+  * Are anti-locality and locality effects independent or in conflict? Or can locality effects be derived from anti-locality effects?
+
+#### **Recent work:**  
+  * Deriving Locality from Anti-Locality: The Closest Head Condition. [NELS 57 Abstract](https://s3.amazonaws.com/files.commons.gc.cuny.edu/wp-content/blogs.dir/50641/files/2026/10/Ottur.pdf)
+  * Escape hatches are phase edges, but not all phase edges are escape hatches (with Lieke Hendriks). [NELS 56 Poster](https://ottur.info/posters/ottur_hendriks_nels56poster.pdf)
+  * A timing approach to escape hatch dependencies. [GLOW 47 Proceedings](https://biecoll.ub.uni-bielefeld.de/index.php/glow/article/view/1264/1258)
+
+
+
 ### _Serial verb constructions (SVCs)_  
 
 #### **Research questions:**
@@ -36,15 +55,7 @@ My research lies at the intersection of **theoretical syntax** and its interface
   * Malayalam doesn't need adpositions: the case of *v*P-adjunction. [WCCFL 42 Proceedings](https://www.lingref.com/cpp/wccfl/42/paper3835.pdf)
   * Linear asymmetries and the syntax of serialization: against an antisymmetric approach. [ConSOLE 32 Proceedings](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxii_updated-2.pdf#page=238)
 
-### _Locality and constraints on transformations/redundancies_  
 
-#### **Research questions:**
-  * To what extent are non-complements (specifiers and adjuncts) opaque or transparent?  
-  * How can we derive cross-linguistic variation in, e.g., left-branch extraction and successive cyclic movement patterns?  
-
-#### **Recent work:**  
-  * Escape hatches are phase edges, but not all phase edges are escape hatches (with Lieke Hendriks). [NELS 56 Poster](https://ottur.info/posters/ottur_hendriks_nels56poster.pdf)
-  * A timing approach to escape hatch dependencies. [GLOW 47 Proceedings](https://biecoll.ub.uni-bielefeld.de/index.php/glow/article/view/1264/1258)
 
 ### _Numerals, classifiers, and left-branch extraction in spoken Persian_  (joint work with Yasaman Sanei)
 
