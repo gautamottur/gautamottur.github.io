@@ -51,7 +51,7 @@ More generally, I am interested in how different aspects of the interaction betw
   * How are SVCs prosodically and morphologically integrated?
 
 #### **Recent work:**  
-  * Light-'give' constructions in Malayalam and Tamil (with Rishabh Suresh). [NELS 56 Paper](https://ottur.info/papers/nels56proceedings_SO.pdf)
+  * Light-'give' constructions in Malayalam and Tamil (with Rishabh Suresh). [NELS 56 Proceedings](https://ottur.info/papers/nels56proceedings_SO.pdf)
   * Malayalam doesn't need adpositions: the case of *v*P-adjunction. [WCCFL 42 Proceedings](https://www.lingref.com/cpp/wccfl/42/paper3835.pdf)
   * Linear asymmetries and the syntax of serialization: against an antisymmetric approach. [ConSOLE 32 Proceedings](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxii_updated-2.pdf#page=238)
 
