@@ -37,7 +37,7 @@ More generally, I am interested in how different aspects of the interaction betw
 
 #### **Recent work:**  
   * Deriving Locality from Anti-Locality: The Closest Head Condition. [NELS 57 Abstract](https://s3.amazonaws.com/files.commons.gc.cuny.edu/wp-content/blogs.dir/50641/files/2026/10/Ottur.pdf)
-  * Escape hatches are phase edges, but not all phase edges are escape hatches (with Lieke Hendriks). [NELS 56 Poster](https://ottur.info/posters/ottur_hendriks_nels56poster.pdf)
+  * Escape hatches are phase edges, but not all phase edges are escape hatches (with Lieke Hendriks). [NELS 56 Proceedings](https://ottur.info/papers/nels56proceedings_OH.pdf)
   * A timing approach to escape hatch dependencies. [GLOW 47 Proceedings](https://biecoll.ub.uni-bielefeld.de/index.php/glow/article/view/1264/1258)
 
 
@@ -51,7 +51,7 @@ More generally, I am interested in how different aspects of the interaction betw
   * How are SVCs prosodically and morphologically integrated?
 
 #### **Recent work:**  
-  * Light-'give' constructions in Malayalam and Tamil (with Rishabh Suresh). [NELS 56 Poster](https://ottur.info/posters/suresh_ottur_nels56poster.pdf)
+  * Light-'give' constructions in Malayalam and Tamil (with Rishabh Suresh). [NELS 56 Paper](https://ottur.info/papers/nels56proceedings_SO.pdf)
   * Malayalam doesn't need adpositions: the case of *v*P-adjunction. [WCCFL 42 Proceedings](https://www.lingref.com/cpp/wccfl/42/paper3835.pdf)
   * Linear asymmetries and the syntax of serialization: against an antisymmetric approach. [ConSOLE 32 Proceedings](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxii_updated-2.pdf#page=238)
 
